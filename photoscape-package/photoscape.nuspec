@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>photoscape</id>
+    <title>PhotoScape</title>
+    <version>3.7</version>
+    <authors>Mooii Tech</authors>
+    <owners>JkbLskw</owners>
+    <summary>A comprehensive editing and photo-management suite.</summary>
+    <description><![CDATA[
+	
+### General
+PhotoScape is a fun and easy photo editing software that enables you to fix and enhance photos.
+
+### Supported Systems
+*	Windows NT, 2000, XP, Vista, 7, 8, 10
+
+### Features
+*	Viewer: View photos in your folder, create a slideshow
+*	Editor: resizing, brightness and color adjustment, white balance, backlight correction, ...
+*	Batch editor: Batch edit multiple photos
+*	Page: Merge multiple photos on the page frame to create one final photo
+*	Combine: Attach multiple photos vertically or horizontally to create one final photo
+*	Animated GIF: Use multiple photos to create a final animated photo
+*	Print: Print portrait shots, carte de visites(CDV), passport photos
+*	Splitter: Slice a photo into several pieces
+*	Screen Capture: Capture your screenshot and save it
+*	Color Picker: Zoom in on images, search and pick a color
+*	Rename: Change photo file names in batch mode
+*	Raw Converter: Convert RAW to JPG
+*	Paper Print: Print lined, graph, music and calendar paper
+*	Face Search: Find similar faces on the Internet
+
+
+### Miscellaneous
+*	PhotoScape is provided free of charge.
+
+]]></description>
+    <tags>photoscape photo image editing graphics art freeware</tags>
+	<projectUrl>http://www.photoscape.org/ps/main/index.php</projectUrl>
+	<copyright>Copyright 2001-2018 Mooii Tech All Rights Reserved</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://user-images.githubusercontent.com/3406091/51088516-f7035200-1760-11e9-8297-371d04829316.png</iconUrl>
+		<dependencies>
+		<dependency id="chocolatey-core.extension" version="1.3.3" />
+	</dependencies>
+  </metadata>
+</package>

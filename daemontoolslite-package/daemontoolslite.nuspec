@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>daemon-tools-lite</id>
+    <title>Daemon-Tools-Lite</title>
+    <version>10.7</version>
+    <authors>Disc Soft Ltd</authors>
+    <owners>Myself</owners>
+    <summary></summary>
+    <description>DAEMON Tools Lite 10 allows you to mount all known types of disc image files and emulates up to 4 DT + SCSI + HDD devices. It enables you to create images of your optical discs and access them via well-organized catalog.</description>
+    <tags>daemontoolslite daemon tools dtlite iso emulation virtual-disk mount-imaged isc-image cd-emulator dvd-emulator</tags>
+	<projectUrl>https://www.daemon-tools.cc/products/dtLite</projectUrl>
+    <licenseUrl>https://www.daemon-tools.cc/terms</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://www.daemon-tools.cc/static/2fdd4ce5/icon-98-dtLite.png</iconUrl>
+  </metadata>
+</package>

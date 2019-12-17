@@ -1,0 +1,41 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>deezer</id>
+    <title>Deezer Desktop</title>
+    <version>4.18.10</version>
+    <authors>Deezer</authors>
+    <owners>JkbLskw</owners>
+    <summary>Deezer desktop app for streaming music on Windows</summary>
+    <description>
+	
+### General
+This app brings Deezer direct to your desktop, where you can enjoy all of your music and usual features, plus HotKeys, Offline Mode and an improved look and feel.
+
+### Supported Systems
+*	Windows 7, 8, 8.1, 10
+*	Mac
+
+### Features
+*	Flow
+*	Channels &amp; Mixes
+*	Playlists
+*	Offline Mode
+*	Hotkey control with your keyboard
+*	Exclusive video Content from live Sessions to interviews
+*	FLAC audio quality support (HiFi subscribers only)
+
+### Miscellaneous
+*	The Deezer desktop app is available to all users. You'll need Windows 7 or later or macOS 10.9 or later.
+*	Offline Mode only available to Deezer Family, Deezer Student, Deezer Premium or Deezer HiFi users
+
+</description>
+    <tags>deezer deezer-desktop desktop app music stream</tags>
+	<projectUrl>https://www.deezer.com/en/download?utm_source=web_link</projectUrl>
+    <licenseUrl>https://www.deezer.com/legal/cgu</licenseUrl>
+	<copyright>Copyright 2006-2019 Deezer</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://user-images.githubusercontent.com/3406091/40615677-0e54fe92-6288-11e8-82f6-a7f87ee4cb42.png</iconUrl>
+	<bugTrackerUrl>https://en.deezercommunity.com/troubleshooting-and-tips-4/deezer-beta-desktop-app-all-feedback-bug-reports-tip-and-ideas-suggestions-here-please-1291</bugTrackerUrl>
+	<mailingListUrl>https://groups.google.com/forum/#!forum/chocolatey</mailingListUrl>
+  </metadata>
+</package>

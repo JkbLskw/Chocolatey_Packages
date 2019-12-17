@@ -1,0 +1,53 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>elsterformular</id>
+    <title>ElsterFormular</title>
+    <version>20.5.0</version>
+    <authors>Bayerisches Landesamt fuer Steuern - Dienststelle Muenchen</authors>
+    <owners>JkbLskw</owners>
+    <summary>Free software for electronic tax return from german financial administration.</summary>
+    <description>
+	
+### General
+
+*	ElsterFormular from german financial administration provides a 
+	free software for electronic tax return with encrypted electronic data transfer.
+
+### New in version 20.1
+*	wage tax statements 2019
+*	updated tax computation
+
+### Features
+
+*	comfortable input with well-known UI
+*	help with official instruction
+*	tax calculation
+*	pre-populated tax declaration
+*	transfer of data of the revious year
+*	plausibility check at creation and transfer
+*	display of your tax data compared with your transfered data
+*	secure and up to date transfer of your data over ethernet - encryption with hybrid method of RSA (2048 Bit) and 3DES (112 Bit)
+*	online updates over SSL
+*	paperless tax declaration and highest security with electronic certificate (require: register by 'Mein Elster')
+*	hard copy of compact tax declaration
+*	hard copy of transmission protocol
+*	screenreader-mode for visually impaired user
+
+### Note
+
+***Support from March 2019***
+*	attachment N-GRE for income tax return 2018
+*	cash method of accounting 2018
+*	commercial tax return 2018
+*	commercial tax measurement amount 2018
+*	sales tax return 2019
+
+</description>
+    <tags>elster steuer steuererklaerungen tax</tags>
+	<copyright>ELSTER(R) eingetragenes Markenzeichen des Freistaates Bayern</copyright>
+	<projectUrl>https://www.elster.de/elsterweb/infoseite/elsterformular</projectUrl>
+    <licenseUrl>https://www.elster.de/elsterweb/lizenzvertrag/lizenzvertrag_elsterformular</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://user-images.githubusercontent.com/3406091/40476835-48eae26a-5f45-11e8-8bcb-3bec8bff5ed0.png</iconUrl>
+  </metadata>
+</package>

@@ -1,0 +1,41 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cocuun</id>
+    <title>Cocuun</title>
+    <version>2.8.24</version>
+    <authors>EXEC Software Team GmbH</authors>
+    <owners>JkbLskw</owners>
+    <summary>Solution for agile management of orders, tasks, projects, processes and documents.</summary>
+    <description>
+	
+### General
+Cocuun is an application for managing projects, render services, communicate in teams or with external partners and share documents or information with other members.
+It gives more order, transparency and a better overview for all members.
+A simple digital rights management ensure that documents and information be available accurately.
+
+[more about Cocuun](https://www.cocuun.net/)
+
+### Supported Systems
+Windows (7, 8, 8.1, 10)
+
+### Features
+-	Messaging
+-	Collaboration
+-	Shared Cloud-Storage
+-	Digitization of Processes
+-	Security made in Germany
+-	Centrally Administration
+-	DSGVO compliant
+
+</description>
+    <tags>cocuun messenger chat collaboration im organizer projects cloud</tags>
+    <licenseUrl>https://www.cocuun.net/nutzungsbedingungen</licenseUrl>
+	<copyright>Copyright 2017-2019, Cocuun by EXEC Software Team GmbH, Germany, Ransbach-Baumbach / Berlin</copyright>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <iconUrl>https://www.cocuun.net/assets/images/logos/cocuun-logo.png</iconUrl>
+	<projectUrl>https://www.cocuun.net</projectUrl>
+	<dependencies>
+		<dependency id="chocolatey-core.extension" version="1.3.3" />
+	</dependencies>
+  </metadata>
+</package>
