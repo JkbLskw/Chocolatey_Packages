@@ -1,39 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Read this before creating packages: https://chocolatey.org/docs/create-packages -->
-<!-- It is especially important to read the above link to understand additional requirements when publishing packages to the community feed aka dot org (https://chocolatey.org/packages). -->
-
-<!-- Test your packages in a test environment: https://github.com/chocolatey/chocolatey-test-environment -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>jameica</id>
 	<version>2.8.6</version>
-    <title>Jameica (Install)</title>
+    <title>Jameica</title>
     <authors>Olaf Willuhn</authors>
+    <owners>JkbLskw</owners>
     <projectUrl>https://www.willuhn.de/products/jameica/</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/testpackage.png</iconUrl>-->
-    <!-- If there is a license Url available, it is required for the community feed -->
+	<packageSourceUrl>https://github.com/JkbLskw/Chocolatey_Packages/tree/master/jameica-package</packageSourceUrl>
+    <iconUrl>https://user-images.githubusercontent.com/3406091/70838416-5aca4b00-1e08-11ea-8418-f94c64632636.png</iconUrl>
     <licenseUrl>https://www.willuhn.de/products/jameica/license.php</licenseUrl>
     <projectSourceUrl>https://github.com/willuhn/jameica</projectSourceUrl>
     <docsUrl>https://www.willuhn.de/products/jameica/releases/current/jameica/jameica.javadoc.zip</docsUrl>
     <tags>platform application-platform java swt services runtime-environment logging security backup lifecycle</tags>
-    <summary>Jameica is an Application-Platform written in Java containing a SWT-UI. It provides different services (GUI-Toolkit, Logging, Security, Backup, Lifecycle-Management, Message-Bus) to the installed plugins.</summary>
-    <description>__REPLACE__MarkDown_Okay </description>
-    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
-    <!-- =============================== -->      
+    <summary>Runtime environment for Java applications</summary>
+    <description>
+### General
+Jameica is an Application-Platform written in Java containing a SWT-UI. It provides different services (GUI-Toolkit, Logging, Security, Backup, Lifecycle-Management, Message-Bus) to the installed plugins.
 
-    <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
-    <!--<dependencies>
-      <dependency id="" version="__MINIMUM_VERSION__" />
-      <dependency id="" version="[__EXACT_VERSION__]" />
-      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_INCLUSIVE]" />
-      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_EXCLUSIVE)" />
-      <dependency id="" />
-      <dependency id="chocolatey-core.extension" version="1.1.0" />
-    </dependencies>-->
-    <!-- chocolatey-core.extension - https://chocolatey.org/packages/chocolatey-core.extension
-         - You want to use Get-UninstallRegistryKey on less than 0.9.10 (in chocolateyUninstall.ps1)
-         - You want to use Get-PackageParameters and on less than 0.11.0
-         - You want to take advantage of other functions in the core community maintainer's team extension package
-    -->
+### Features
+* consistent look and feel
+* strictly user- and programdata separation
+* standardized access to configuration files
+* common navigation- and menuelements
+* synchronous and asynchronous data exchange between plugins
+* supports client-server model via RMI, XML-RPC or SOAP
+* simplified usage of encryption methods (integrated wallet system)
+* headless support for servers (no GUI)
+* logging
+	</description>
+	<releaseNotes>https://www.willuhn.de/wiki/doku.php?id=hibiscus_2.8</releaseNotes>
   </metadata>
 </package>
