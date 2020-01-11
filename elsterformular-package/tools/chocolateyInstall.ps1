@@ -3,7 +3,7 @@ $packageArgs = @{
   fileType      = 'msi'
   url           = 'https://download.elster.de/aktuell/ElsterFormularKomplett.msi'
   silentArgs 	= '/quiet'
-  checksum      = 'd0f31c2629c2689a884897b087a0f8b23d931a075bacba59626ac92578fef4e9'
+  checksum      = '9a87ae41b717e4ff488971b1275dcfb767d62671fff2cdb320ee1fc6374a2b94'
   checksumType  = 'sha256'
 }
 Install-ChocolateyPackage @packageArgs
