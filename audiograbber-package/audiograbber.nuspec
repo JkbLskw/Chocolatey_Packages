@@ -1,0 +1,28 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>audiograbber</id>
+    <title>Audiograbber</title>
+    <version>1.83</version>
+    <authors>Jackie Franck</authors>
+    <owners>JkbLskw</owners>
+    <summary>Audiograbber is a software that grabs digital audio from cd's</summary>
+    <description>
+	
+### General
+Audiograbber can automatically normalize the music, delete silence from the start and/or end of tracks, and encode them to a variety of formats including MP3.
+You can download and upload disc info from freedb, an Internet compact disc database. 
+You can even record your vinyl LP's or cassette tapes with Audiograbber and make wav's or MP3's of them.
+
+### Features
+*	understandable UI
+*	flexible
+*	works with almost all cd-rom-drives
+
+</description>
+    <tags>audio cd cd-rom grabber music ripper</tags>
+	<projectUrl>https://www.audiograbber.org/</projectUrl>
+    <licenseUrl>https://www.audiograbber.org/license.html</licenseUrl>
+    <iconUrl>https://user-images.githubusercontent.com/3406091/73616104-150b5100-4607-11ea-93b7-cb8bed265bb6.png</iconUrl>
+	<releaseNotes>https://www.audiograbber.org/</releaseNotes>
+  </metadata>
+</package>

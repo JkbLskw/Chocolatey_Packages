@@ -2,7 +2,7 @@
   <metadata>
     <id>elsterformular</id>
     <title>ElsterFormular</title>
-    <version>21.0.0</version>
+    <version>21.1.0.1</version>
     <authors>Bayerisches Landesamt fuer Steuern - Dienststelle Muenchen</authors>
     <owners>JkbLskw</owners>
     <summary>Free software for electronic tax return from german financial administration.</summary>
@@ -12,10 +12,6 @@
 
 *	ElsterFormular from german financial administration provides a 
 	free software for electronic tax return with encrypted electronic data transfer.
-
-### New in version 20.1
-*	wage tax statements 2019
-*	updated tax computation
 
 ### Features
 
@@ -33,14 +29,9 @@
 *	hard copy of transmission protocol
 *	screenreader-mode for visually impaired user
 
-### Note
+### Important Notes
 
-***Support from March 2019***
-*	attachment N-GRE for income tax return 2018
-*	cash method of accounting 2018
-*	commercial tax return 2018
-*	commercial tax measurement amount 2018
-*	sales tax return 2019
+The income tax return for 2020 (to be submitted in 2021) can no longer be created in ElsterFormular.
 
 </description>
     <tags>elster steuer steuererklaerungen tax</tags>
