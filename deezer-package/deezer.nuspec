@@ -2,7 +2,7 @@
   <metadata>
     <id>deezer</id>
     <title>Deezer Desktop</title>
-    <version>4.19.20</version>
+    <version>4.20.21</version>
     <authors>Deezer</authors>
     <owners>JkbLskw</owners>
     <summary>Deezer desktop app for streaming music on Windows</summary>
@@ -32,7 +32,7 @@ This app brings Deezer direct to your desktop, where you can enjoy all of your m
     <tags>deezer deezer-desktop desktop app music stream</tags>
 	<projectUrl>https://www.deezer.com/en/download?utm_source=web_link</projectUrl>
     <licenseUrl>https://www.deezer.com/legal/cgu</licenseUrl>
-	<copyright>Copyright 2006-2019 Deezer</copyright>
+	<copyright>Copyright 2006-2020 Deezer</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://user-images.githubusercontent.com/3406091/40615677-0e54fe92-6288-11e8-82f6-a7f87ee4cb42.png</iconUrl>
 	<bugTrackerUrl>https://en.deezercommunity.com/troubleshooting-and-tips-4/deezer-beta-desktop-app-all-feedback-bug-reports-tip-and-ideas-suggestions-here-please-1291</bugTrackerUrl>
