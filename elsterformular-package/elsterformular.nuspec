@@ -31,7 +31,7 @@
 
 ### Important Notes
 
-The income tax return for 2020 (to be submitted in 2021) can no longer be created in ElsterFormular.
+The income tax return for 2020 can no longer be created in ElsterFormular.
 
 </description>
     <tags>elster steuer steuererklaerungen tax</tags>
@@ -40,5 +40,6 @@ The income tax return for 2020 (to be submitted in 2021) can no longer be create
     <licenseUrl>https://www.elster.de/elsterweb/lizenzvertrag/lizenzvertrag_elsterformular</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://user-images.githubusercontent.com/3406091/40476835-48eae26a-5f45-11e8-8bcb-3bec8bff5ed0.png</iconUrl>
+	<packageSourceUrl>https://github.com/JkbLskw/Chocolatey_Packages/tree/master/elsterformular-package</packageSourceUrl>
   </metadata>
 </package>
