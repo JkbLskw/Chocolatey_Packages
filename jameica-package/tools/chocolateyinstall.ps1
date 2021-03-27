@@ -10,7 +10,7 @@ $packageArgs = @{
   
   softwareName  = 'jameica*' #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
 
-  checksum      = '6c9994d5a6eb9de7d60e15b351fb13635fbaee1badf8843c62323d6a81732d9a'
+  checksum      = '403e61a55decfc3fe1f30b31e24d0ca709480597ef67c49c1a80e7c2ba03ed82'
   checksumType  = 'sha256'
   checksum64    = '403e61a55decfc3fe1f30b31e24d0ca709480597ef67c49c1a80e7c2ba03ed82'
   checksumType64= 'sha256'
