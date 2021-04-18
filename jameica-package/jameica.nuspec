@@ -7,7 +7,7 @@
     <owners>JkbLskw</owners>
     <projectUrl>https://www.willuhn.de/products/jameica/</projectUrl>
 	<packageSourceUrl>https://github.com/JkbLskw/Chocolatey_Packages/tree/master/jameica-package</packageSourceUrl>
-    <iconUrl>https://user-images.githubusercontent.com/3406091/70838416-5aca4b00-1e08-11ea-8418-f94c64632636.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/JkbLskw/Chocolatey_Icons/main/jameica_icon.png</iconUrl>
     <licenseUrl>https://www.willuhn.de/products/jameica/license.php</licenseUrl>
     <projectSourceUrl>https://github.com/willuhn/jameica</projectSourceUrl>
     <docsUrl>https://www.willuhn.de/products/jameica/releases/current/jameica/jameica.javadoc.zip</docsUrl>
