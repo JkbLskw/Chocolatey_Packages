@@ -2,7 +2,7 @@
   <metadata>
     <id>deezer</id>
     <title>Deezer Desktop</title>
-    <version>4.33.1</version>
+    <version>4.34.10</version>
     <authors>Deezer</authors>
     <owners>JkbLskw</owners>
     <summary>Deezer desktop app for streaming music on Windows</summary>
@@ -37,5 +37,6 @@ This app brings Deezer direct to your desktop, where you can enjoy all of your m
 	<bugTrackerUrl>https://en.deezercommunity.com/troubleshooting-and-tips-4/deezer-beta-desktop-app-all-feedback-bug-reports-tip-and-ideas-suggestions-here-please-1291</bugTrackerUrl>
 	<mailingListUrl>https://groups.google.com/forum/#!forum/chocolatey</mailingListUrl>
     <packageSourceUrl>https://github.com/JkbLskw/Chocolatey_Packages/tree/master/deezer-package</packageSourceUrl>
+	<releaseNotes>https://en.deezercommunity.com/</releaseNotes>
     </metadata>
 </package>
