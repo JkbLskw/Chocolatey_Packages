@@ -3,7 +3,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = 'https://www.deezer.com/desktop/download?platform=win32&architecture=x86'
   silentArgs 	= '/quiet'
-  checksum      = 'a847d8082ac058fca2eff72d7f30fc805d9201d74e19a4ced4c4a44fd770dafc'
+  checksum      = '2830062f908c25750b39bfc4880bb16088a23ea95fd4743b54a2c25df8a2d548'
   checksumType  = 'sha256'
 }
 Install-ChocolateyPackage @packageArgs
