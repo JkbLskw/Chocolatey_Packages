@@ -2,7 +2,7 @@
   <metadata>
     <id>deezer</id>
     <title>Deezer Desktop</title>
-    <version>5.30.250.110</version>
+    <version>5.30.360.133</version>
     <authors>Deezer</authors>
     <owners>JkbLskw</owners>
     <summary>Deezer desktop app for streaming music on Windows</summary>
@@ -24,7 +24,7 @@ This app brings Deezer direct to your desktop, where you can enjoy all of your m
 *	FLAC audio quality support (HiFi subscribers only)
 
 ### Miscellaneous
-*	The Deezer desktop app is available to all users. You'll need Windows 7 or later or macOS 10.9 or later.
+*	The Deezer desktop app is available to all users. You'll need Windows 7 or later or macOS 10.13 or later.
 *	Offline Mode only available to Deezer Family, Deezer Student, Deezer Premium or Deezer HiFi users
 
 </description>
