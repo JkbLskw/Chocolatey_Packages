@@ -3,7 +3,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = 'https://www.cocuun.de/desktop/Cocuun-Setup.exe'
   silentArgs 	= '/S ALLUSERS=1'
-  checksum      = 'ca34a48839e2599e11ddccd5f2a47b0f04d36066754d3ea65fbeb1e95b456d7d'
+  checksum      = '0F0033ECD782EC5C2F8B413650BA787090BDB3C65C694387F9A46ECFC21DF67B'
   checksumType  = 'sha256'
 }
 Install-ChocolateyPackage @packageArgs
