@@ -2,11 +2,7 @@
   <metadata>
     <id>deezer</id>
     <title>Deezer Desktop</title>
-<<<<<<< HEAD
-    <version>5.30.392.144</version>
-=======
-    <version>5.30.360.133</version>
->>>>>>> 38fd91c9504f019b70ac4a2aab073897e26929ac
+    <version>5.30.500.148</version>
     <authors>Deezer</authors>
     <owners>JkbLskw</owners>
     <summary>Deezer desktop app for streaming music on Windows</summary>
