@@ -31,6 +31,9 @@ Arcade style game for Linux, Mac, Windows and Android in the tradition of:
 * packages available for Linux, Mac, Windows and Android
 
 </description>
+	<dependencies>
+		<dependency id="autohotkey.portable"/>
+	</dependencies>
     <tags>rocksndiamonds arcade sokoban emerald boulder supaplex</tags>
 	<projectUrl>https://www.artsoft.org/rocksndiamonds/</projectUrl>
     <licenseUrl>https://www.deezer.com/legal/cgu</licenseUrl>
