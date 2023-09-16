@@ -2,11 +2,12 @@
   <metadata>
     <id>rocksndiamonds</id>
     <title>Rocks'n'Diamonds</title>
-    <version>4.2.3.1</version>
+    <version>4.3.6.0</version>
     <authors>Artsoft Entertainment</authors>
     <owners>JkbLskw</owners>
     <summary>Arcade style game for Linux, Mac, Windows and Android in the tradition of “Boulder Dash” (C 64), “Emerald Mine” (Amiga), “Supaplex” (Amiga/PC), “Sokoban” (PC)</summary>
     <description>
+
 ### Description
 Arcade style game for Linux, Mac, Windows and Android in the tradition of:
 
@@ -43,5 +44,5 @@ Arcade style game for Linux, Mac, Windows and Android in the tradition of:
 	<bugTrackerUrl>https://bugs.artsoft.org</bugTrackerUrl>
     <packageSourceUrl>https://github.com/JkbLskw/Chocolatey_Packages/tree/master/rocksndiamonds-package</packageSourceUrl>
 	<releaseNotes>https://www.artsoft.org/rocksndiamonds/news/</releaseNotes>
-    </metadata>
+  </metadata>
 </package>
